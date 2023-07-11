@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342481096933",
+    "project_id": "online-darsliklar",
+    "storage_bucket": "online-darsliklar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342481096933:android:7443211473026c14bcc40c",
+        "android_client_info": {
+          "package_name": "com.example.online_darsliklar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342481096933-1q88t8rqjajcfta61tut5i5u6qclfkte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBozlGrXHiXt5FOA_JEtfOW6LFQx-IeVa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342481096933-1q88t8rqjajcfta61tut5i5u6qclfkte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
